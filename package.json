@@ -45,7 +45,7 @@
     "commander": "1.0.5",
     "mkdirp": "0.3.4",
     "qs": "6.2.4",
-    "xml2js": "0.2.3",
+    "xml2js": "0.4.23",
     "data2xml": "0.8.0"
   },
   "devDependencies": {},
